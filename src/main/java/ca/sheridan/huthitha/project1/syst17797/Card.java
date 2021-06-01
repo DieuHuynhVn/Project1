@@ -5,9 +5,9 @@
  */
 package ca.sheridan.huthitha.project1.syst17797;
 
-/**
+/**checking connection
  *
- * @author User
+ * @author DieuHuynh
  */
 public class Card {
  //card hase 2 information suit and value
