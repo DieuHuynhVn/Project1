@@ -6,7 +6,7 @@
 package ca.sheridan.huthitha.project1.syst17797;
 
 /**checking connection
- *
+ * changes in GitHub
  * @author DieuHuynh
  */
 public class Card {
